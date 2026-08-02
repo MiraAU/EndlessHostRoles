@@ -3,6 +3,7 @@
 # Endless Host Roles
 
 ### The largest Among Us mod
+
 **Completely free • Host-Only • Fully customizable • 100% transparency • No accounts or logins required**
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5662f6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m3ayxfumC8)
@@ -73,163 +74,163 @@ You can also report bugs and suggest features in the #bug-reports and #suggestio
 
 ## List of Roles <span style="font-size: 12px;">(excluding (Custom) Hide And Seek roles and Vanilla roles)</span>
 
-| Crewmates         | Impostors       | Neutrals          | Coven         | Add-ons        |
-|-------------------|-----------------|-------------------|---------------|----------------|
-| Addict            | Abyssbringer    | Accumulator       | Augur         | Absorber       |
-| Adrenaline        | Ambusher        | Agitator          | Banshee       | Aide           |
-| Adventurer        | Anonymous       | Amnesiac          | Coven Leader  | Allergic       |
-| Aid               | Anti-Adminer    | Amogus            | Coven Member  | Anchor         |
-| Alchemist         | Arrogance       | Arsonist          | Death         | Antidote       |
-| Altruist          | Assumer         | Auditor           | Dreamweaver   | Anti-TP        |
-| Analyst           | Augmenter       | Backstabber       | Empress       | Asthmatic      |
-| Ankylosaurus      | Bard            | Bandit            | Enchanter     | Autopsy        |
-| Astral            | Blackmailer     | Bargainer         | Goddess       | Avenger        |
-| Autocrat          | Bomber          | Beehive           | Illusionist   | Bait           |
-| Bane              | Bounty Hunter   | Berserker         | Moon Dancer   | Banana Man     |
-| Battery           | Butcher         | Blockade          | Poache        | Beartrap       |
-| Beacon            | Camouflager     | Blood Knight      | Potion Master | Bewilder       |
-| Benefactor        | Capitalist      | Bubble            | Reaper        | Blessed        |
-| Bestower          | Cantankerous    | Chemist           | Shadow        | Blind          |
-| Bodyguard         | Catalyst        | Cherokious        | Siren         | Blocked        |
-| Camera Man        | Centralizer     | Clerk             | Spellcaster   | Bloodlust      |
-| Captain           | Chainbinder     | Collector         | Summoner      | Bloodmoon      |
-| Car               | Changeling      | Curser            | Timelord      | Busy           |
-| Carrier           | Chronomancer    | Dealer            | Voodoo Master | Charmed        |
-| Catcher           | Cleaner         | Deathknight       | Wyrd          | Circumvent     |
-| Chameleon         | Clock Blocker   | Demon             |               | Cleansed       |
-| Chef              | Commander       | Doppelganger      |               | Clumsy         |
-| Clairvoyant       | Consigliere     | Doomsayer         |               | Committed      |
-| Cleanser          | Consort         | Duality           |               | Compelled      |
-| Convener          | Councillor      | Eclipse           |               | Composter      |
-| Copycat           | Crewpostor      | Enderman          |               | Concealer      |
-| Coroner           | Cursed Wolf     | Evolver           |               | Constricted    |
-| Crusader          | Deathpact       | Executioner       |               | Contagious     |
-| Dad               | Devourer        | Explosivist       |               | Damocles       |
-| Decryptor         | Disperser       | Follower          |               | Deadlined      |
-| Demolitionist     | Duellist        | Gaslighter        |               | Deadly Quota   |
-| Deputy            | Dazzler         | The Glitch        |               | Disco          |
-| Detour            | Echo            | God               |               | Diseased       |
-| Dictator          | Escapist        | Hater             |               | Disregarded    |
-| Doctor            | Evil Eraser     | Head Hunter       |               | Dizzy          |
-| Donut Delivery    | Evil Guesser    | Hex Master        |               | Dynamo         |
-| Doorjammer        | Evil Tracker    | Hookshot          |               | Double Shot    |
-| Double Agent      | Exclusionary    | Impartial         |               | Egoist         |
-| Drainer           | Exorcist        | Infection         |               | Energetic      |
-| Druid             | Fabricator      | Innocent          |               | Entombed       |
-| Electric          | Fakeshifter     | Investor          |               | Entranced      |
-| Enigma            | Fireworker      | Jackal            |               | Evil Spirit    |
-| Escort            | Forger          | Jackpot           |               | Examiner       |
-| Express           | Framer          | Jester            |               | Facilitator    |
-| Farmer            | Freezer         | Jinx              |               | Finder         |
-| Forensic          | Frightener      | Juggernaut        |               | Flash          |
-| Fortune Teller    | Gambler         | Lawyer            |               | Fragile        |
-| Gardener          | Gangster        | Magician          |               | Fool           |
-| Gaulois           | Generator       | Magistrate        |               | Giant          |
-| Goose             | Godfather       | Maverick          |               | Glow           |
-| Grappler          | Greedy          | Medusa            |               | Gravestone     |
-| Grenadier         | Hangman         | Mycologist        |               | Guardian Angel |
-| Meeting Manager   | Hitman          | Necro-Guesser     |               | Guesser        |
-| Guardian          | Hypnotist       | Necromancer       |               | Haste          |
-| Hacker            | Hypocrite       | Nonplus           |               | Haunter        |
-| Helper            | Inhibitor       | Note Killer       |               | Hidden         |
-| Ignitor           | Kamikaze        | Opportunist       |               | Insane         |
-| Imitator          | Kidnapper       | Patroller         |               | Introvert      |
-| Insight           | Killing Machine | Pawn              |               | Knighted       |
-| Inspector         | Lightning       | Pelican           |               | Last Impostor  |
-| Investigator      | Librarian       | Pestilence        |               | Lazy           |
-| Inquirer          | Loner           | Specter           |               | Listener       |
-| Inquisitor        | Lurker          | Pickpocket        |               | Looter         |
-| Jailor            | Mafioso         | Plaguebearer      |               | Lovers         |
-| Journalist        | Mastermind      | Poisoner          |               | Loyal          |
-| Judge             | Nemesis         | Postman           |               | Lucky          |
-| Lazy Guy          | Mercenary       | Predator          |               | Madmate        |
-| Leery             | Miner           | Provocateur       |               | Magnet         |
-| Lighter           | Morphling       | Pulse             |               | Mare           |
-| Lookout           | Ninja           | Pursuer           |               | Meeting Angel  |
-| Luckey            | Nuker           | Pyromaniac        |               | Messenger      |
-| Markseeker        | Nullifier       | Quarry            |               | Mimic          |
-| Marshall          | Obstructer      | Quiz Master       |               | Minion         |
-| Mathematician     | Occultist       | Reckless          |               | Mischievous    |
-| Mayor             | Overheat        | Revolutionist     |               | Necroview      |
-| Mechanic          | Parasite        | Ritualist         |               | Nimble         |
-| Medic             | Penguin         | Rogue             |               | Noisy          |
-| Medium            | Perplexer       | Romantic          |               | Oblivious      |
-| Merchant          | Postponer       | Room Rusher       |               | Onbound        |
-| Mole              | Psychopath      | Roulette Grandeur |               | Spurt          |
-| Monarch           | Puppeteer       | Ruthless Romantic |               | Sleep          |
-| Mortician         | Quick Shooter   | Samurai           |               | Phantasm       |
-| Nice Eraser       | Renegade        | Schrödinger's Cat |               | Physicist      |
-| Nice Guesser      | Rift Maker      | Seamstress        |               | Rascal         |
-| Nightmare         | Saboteur        | Serial Killer     |               | Reach          |
-| Negotiator        | Sapper          | Sharpshooter      |               | Rookie         |
-| Observer          | Scavenger       | Shifter           |               | Reroll         |
-| Operative         | Silencer        | Sidekick          |               | Trainee        |
-| Oracle            | Sniper          | Simon             |               | Schizophrenic  |
-| Oxyman            | Soul Catcher    | Slenderman        |               | Seer           |
-| Pacifist          | Stasis          | Soul Collector    |               | Shade          |
-| Paranoid          | Swapster        | Soul Hunter       |               | Shy            |
-| Perceiver         | Swiftclaw       | Spider            |               | Sleuth         |
-| Portal Maker      | Swooper         | Spirit            |               | Sonar          |
-| President         | Stealth         | Spiritcaller      |               | Stained        |
-| Psychic           | Time Thief      | Sprayer           |               | Stealer        |
-| Rabbit            | Trapster        | Stalker           |               | Stressed       |
-| Randomizer        | Trickster       | Starspawn         |               | Swift          |
-| Retributionist    | Twister         | Cultist           |               | Sunglasses     |
-| Revenant          | Undertaker      | Sunnyboy          |               | Talkative      |
-| Rhapsode          | Vampire         | Tank              |               | Taskcounter    |
-| Ricochet          | Venerer         | Technician        |               | Task Master    |
-| Safeguard         | Ventriloquist   | Terrorist         |               | Tiebreaker     |
-| Scanner           | Vindicator      | Thanos            |               | Tired          |
-| Scout             | Visionary       | Thief             |               | Torch          |
-| Security Guard    | Warlock         | Tiger             |               | Truant         |
-| Sensor            | Wasp            | Traitor           |               | Unbound        |
-| Sentinel          | Wildling        | Tremor            |               | Undead         |
-| Sentry            | Wiper           | Vector            |               | Underdog       |
-| Sheriff           | Witch           | Vengeance         |               | Unlucky        |
-| Shiftguard        | Yin Yanger      | Vengeful Romantic |               | Urgent         |
-| Snitch            | Zombie          | Virus             |               | Venom          |
-| Socialite         |                 | Vortex            |               | Warden         |
-| Soothsayer        |                 | Vulture           |               | Watcher        |
-| Spiritualist      |                 | Wraith            |               | Workhorse      |
-| Speedrunner       |                 | Werewolf          |               | YouTuber       |
-| Speed Booster     |                 | Weapon Master     |               |                |
-| Spy               |                 | Weatherman        |               |                |
-| Super Star        |                 | Workaholic        |               |                |
-| Survivor          |                 |                   |               |                |
-| Swapper           |                 |                   |               |                |
-| Tar               |                 |                   |               |                |
-| Task Manager      |                 |                   |               |                |
-| Telecommunication |                 |                   |               |                |
-| Telekinetic       |                 |                   |               |                |
-| Tether            |                 |                   |               |                |
-| Time Manager      |                 |                   |               |                |
-| Time Master       |                 |                   |               |                |
-| Toilet Master     |                 |                   |               |                |
-| Tornado           |                 |                   |               |                |
-| Transmitter       |                 |                   |               |                |
-| Transporter       |                 |                   |               |                |
-| Tracefinder       |                 |                   |               |                |
-| Tree              |                 |                   |               |                |
-| Tunneler          |                 |                   |               |                |
-| Unshifter         |                 |                   |               |                |
-| Vacuum            |                 |                   |               |                |
-| Ventguard         |                 |                   |               |                |
-| Veteran           |                 |                   |               |                |
-| Vigilante         |                 |                   |               |                |
-| Whisperer         |                 |                   |               |                |
-| Witness           |                 |                   |               |                |
-| Wizard            |                 |                   |               |                |
-|                   |                 |                   |               |                |
-| 144               | 113             | 120               | 21            | 117            |
+| Crewmates         | Impostors         | Neutrals           | Coven         | Add-ons          |
+| ----------------- | ----------------- | ------------------ | ------------- | ---------------- |
+| Addict            | Abyssbringer      | Accumulator        | Augur         | Absorber         |
+| Adrenaline        | Ambusher          | Agitator           | Banshee       | Aide             |
+| Adventurer        | Anonymous         | **Amnesiac**       | Coven Leader  | Allergic         |
+| Aid               | Anti-Adminer      | Amogus             | Coven Member  | Anchor           |
+| Alchemist         | Arrogance         | **Arsonist**       | Death         | Antidote         |
+| **Altruist**      | Assumer           | Auditor            | Dreamweaver   | Anti-TP          |
+| Analyst           | Augmenter         | Backstabber        | Empress       | Asthmatic        |
+| Ankylosaurus      | Bard              | Bandit             | Enchanter     | Autopsy          |
+| Astral            | Blackmailer       | Bargainer          | Goddess       | Avenger          |
+| Autocrat          | **Bomber**        | Beehive            | Illusionist   | **Bait**         |
+| Bane              | **Bounty Hunter** | Berserker          | Moon Dancer   | Banana Man       |
+| Battery           | Butcher           | Blockade           | Poache        | Beartrap         |
+| Beacon            | Camouflager       | Blood Knight       | Potion Master | Bewilder         |
+| Benefactor        | Capitalist        | Bubble             | Reaper        | Blessed          |
+| Bestower          | Cantankerous      | Chemist            | Shadow        | Blind            |
+| Bodyguard         | Catalyst          | Cherokious         | Siren         | Blocked          |
+| Camera Man        | Centralizer       | Clerk              | Spellcaster   | Bloodlust        |
+| Captain           | Chainbinder       | Collector          | Summoner      | Bloodmoon        |
+| Car               | Changeling        | Curser             | Timelord      | Busy             |
+| Carrier           | Chronomancer      | Dealer             | Voodoo Master | Charmed          |
+| Catcher           | Cleaner           | Deathknight        | Wyrd          | Circumvent       |
+| Chameleon         | Clock Blocker     | Demon              |               | Cleansed         |
+| Chef              | Commander         | Doppelganger       |               | Clumsy           |
+| Clairvoyant       | Consigliere       | **Doomsayer**      |               | Committed        |
+| Cleanser          | Consort           | Duality            |               | Compelled        |
+| Convener          | Councillor        | Eclipse            |               | Composter        |
+| Copycat           | Crewpostor        | Enderman           |               | Concealer        |
+| Coroner           | Cursed Wolf       | Evolver            |               | Constricted      |
+| Crusader          | Deathpact         | **Executioner**    |               | Contagious       |
+| Dad               | Devourer          | Explosivist        |               | Damocles         |
+| Decryptor         | Disperser         | Follower           |               | Deadlined        |
+| Demolitionist     | Duellist          | Gaslighter         |               | **Deadly Quota** |
+| Deputy            | Dazzler           | **The Glitch**     |               | Disco            |
+| Detour            | Echo              | God                |               | Diseased         |
+| Dictator          | **Escapist**      | Hater              |               | Disregarded      |
+| Doctor            | Evil Eraser       | Head Hunter        |               | Dizzy            |
+| Donut Delivery    | Evil Guesser      | Hex Master         |               | Dynamo           |
+| Doorjammer        | Evil Tracker      | Hookshot           |               | **Double Shot**  |
+| Double Agent      | Exclusionary      | Impartial          |               | Egoist           |
+| Drainer           | Exorcist          | Infection          |               | Energetic        |
+| Druid             | Fabricator        | Innocent           |               | Entombed         |
+| Electric          | Fakeshifter       | Investor           |               | Entranced        |
+| Enigma            | Fireworker        | Jackal             |               | Evil Spirit      |
+| Escort            | Forger            | Jackpot            |               | Examiner         |
+| Express           | Framer            | **Jester**         |               | Facilitator      |
+| Farmer            | Freezer           | Jinx               |               | Finder           |
+| Forensic          | Frightener        | **Juggernaut**     |               | Flash            |
+| Fortune Teller    | Gambler           | Lawyer             |               | Fragile          |
+| Gardener          | Gangster          | Magician           |               | Fool             |
+| Gaulois           | Generator         | Magistrate         |               | Giant            |
+| Goose             | Godfather         | Maverick           |               | Glow             |
+| Grappler          | Greedy            | Medusa             |               | Gravestone       |
+| Grenadier         | Hangman           | Mycologist         |               | Guardian Angel   |
+| Meeting Manager   | Hitman            | Necro-Guesser      |               | **Guesser**      |
+| Guardian          | Hypnotist         | Necromancer        |               | Haste            |
+| Hacker            | Hypocrite         | Nonplus            |               | Haunter          |
+| Helper            | Inhibitor         | Note Killer        |               | Hidden           |
+| Ignitor           | Kamikaze          | Opportunist        |               | Insane           |
+| **Imitator**      | Kidnapper         | Patroller          |               | Introvert        |
+| Insight           | Killing Machine   | Pawn               |               | Knighted         |
+| Inspector         | Lightning         | Pelican            |               | Last Impostor    |
+| Investigator      | Librarian         | **Pestilence**     |               | Lazy             |
+| Inquirer          | Loner             | Specter            |               | Listener         |
+| Inquisitor        | Lurker            | Pickpocket         |               | Looter           |
+| **Jailor**        | Mafioso           | **Plaguebearer**   |               | **Lovers**       |
+| Journalist        | Mastermind        | Poisoner           |               | Loyal            |
+| Judge             | Nemesis           | Postman            |               | Lucky            |
+| Lazy Guy          | Mercenary         | Predator           |               | Madmate          |
+| Leery             | Miner             | Provocateur        |               | Magnet           |
+| Lighter           | Morphling         | Pulse              |               | Mare             |
+| Lookout           | Ninja             | Pursuer            |               | Meeting Angel    |
+| Luckey            | Nuker             | Pyromaniac         |               | Messenger        |
+| Markseeker        | Nullifier         | Quarry             |               | Mimic            |
+| Marshall          | Obstructer        | Quiz Master        |               | Minion           |
+| Mathematician     | Occultist         | Reckless           |               | Mischievous      |
+| **Mayor**         | Overheat          | Revolutionist      |               | Necroview        |
+| Mechanic          | Parasite          | Ritualist          |               | Nimble           |
+| **Medic**         | Penguin           | Rogue              |               | Noisy            |
+| Medium            | Perplexer         | Romantic           |               | Oblivious        |
+| Merchant          | Postponer         | Room Rusher        |               | Onbound          |
+| Mole              | Psychopath        | Roulette Grandeur  |               | Spurt            |
+| **Monarch**       | Puppeteer         | Ruthless Romantic  |               | Sleep            |
+| Mortician         | Quick Shooter     | Samurai            |               | Phantasm         |
+| Nice Eraser       | Renegade          | Schrödinger's Cat  |               | Physicist        |
+| Nice Guesser      | Rift Maker        | Seamstress         |               | Rascal           |
+| Nightmare         | Saboteur          | Serial Killer      |               | Reach            |
+| Negotiator        | Sapper            | Sharpshooter       |               | Rookie           |
+| Observer          | Scavenger         | **Shifter**        |               | Reroll           |
+| Operative         | Silencer          | Sidekick           |               | Trainee          |
+| Oracle            | Sniper            | Simon              |               | Schizophrenic    |
+| Oxyman            | Soul Catcher      | Slenderman         |               | Seer             |
+| Pacifist          | Stasis            | **Soul Collector** |               | Shade            |
+| Paranoid          | Swapster          | Soul Hunter        |               | Shy              |
+| Perceiver         | Swiftclaw         | Spider             |               | Sleuth           |
+| Portal Maker      | **Swooper**       | Spirit             |               | Sonar            |
+| President         | Stealth           | Spiritcaller       |               | Stained          |
+| Psychic           | Time Thief        | Sprayer            |               | Stealer          |
+| Rabbit            | Trapster          | Stalker            |               | Stressed         |
+| Randomizer        | Trickster         | Starspawn          |               | Swift            |
+| Retributionist    | Twister           | Cultist            |               | Sunglasses       |
+| Revenant          | Undertaker        | Sunnyboy           |               | Talkative        |
+| Rhapsode          | Vampire           | Tank               |               | Taskcounter      |
+| Ricochet          | **Venerer**       | Technician         |               | **Task Master**  |
+| Safeguard         | Ventriloquist     | Terrorist          |               | **Tiebreaker**   |
+| Scanner           | Vindicator        | Thanos             |               | Tired            |
+| Scout             | Visionary         | Thief              |               | Torch            |
+| Security Guard    | Warlock           | Tiger              |               | Truant           |
+| Sensor            | Wasp              | Traitor            |               | Unbound          |
+| Sentinel          | Wildling          | Tremor             |               | Undead           |
+| Sentry            | Wiper             | Vector             |               | **Underdog**     |
+| **Sheriff**       | Witch             | Vengeance          |               | Unlucky          |
+| Shiftguard        | Yin Yanger        | Vengeful Romantic  |               | Urgent           |
+| **Snitch**        | Zombie            | Virus              |               | Venom            |
+| Socialite         |                   | Vortex             |               | Warden           |
+| Soothsayer        |                   | Vulture            |               | Watcher          |
+| Spiritualist      |                   | Wraith             |               | Workhorse        |
+| Speedrunner       |                   | **Werewolf**       |               | YouTuber         |
+| Speed Booster     |                   | Weapon Master      |               |                  |
+| Spy               |                   | Weatherman         |               |                  |
+| Super Star        |                   | Workaholic         |               |                  |
+| Survivor          |                   |                    |               |                  |
+| **Swapper**       |                   |                    |               |                  |
+| Tar               |                   |                    |               |                  |
+| Task Manager      |                   |                    |               |                  |
+| Telecommunication |                   |                    |               |                  |
+| Telekinetic       |                   |                    |               |                  |
+| Tether            |                   |                    |               |                  |
+| Time Manager      |                   |                    |               |                  |
+| **Time Master**   |                   |                    |               |                  |
+| Toilet Master     |                   |                    |               |                  |
+| Tornado           |                   |                    |               |                  |
+| Transmitter       |                   |                    |               |                  |
+| **Transporter**   |                   |                    |               |                  |
+| Tracefinder       |                   |                    |               |                  |
+| Tree              |                   |                    |               |                  |
+| Tunneler          |                   |                    |               |                  |
+| Unshifter         |                   |                    |               |                  |
+| Vacuum            |                   |                    |               |                  |
+| Ventguard         |                   |                    |               |                  |
+| **Veteran**       |                   |                    |               |                  |
+| Vigilante         |                   |                    |               |                  |
+| Whisperer         |                   |                    |               |                  |
+| Witness           |                   |                    |               |                  |
+| Wizard            |                   |                    |               |                  |
+|                   |                   |                    |               |                  |
+| 144               | 113               | 120                | 21            | 117              |
 
 ## VIP, Moderator, and Admin perks
 
-:heavy_check_mark:   Can always use the command<br>
-:x:   Can never use the command<br>
-:question:    Host setting determines<br>
+:heavy_check_mark: Can always use the command<br>
+:x: Can never use the command<br>
+:question: Host setting determines<br>
 
 | Feature     | Regular Players | VIP                | Moderator          | Admin              | Host               |
-|-------------|-----------------|--------------------|--------------------|--------------------|--------------------|
+| ----------- | --------------- | ------------------ | ------------------ | ------------------ | ------------------ |
 | /color      | :question:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | /rename     | :question:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | /tpin       | :question:      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -259,17 +260,18 @@ You can also report bugs and suggest features in the #bug-reports and #suggestio
 
 Click this badge to view our translation project:
 <a href="https://translate.gurge44.eu" target="_blank">
-  <img src="https://img.shields.io/badge/Translate%20on%20Crowdin-%2318a303.svg?&style=for-the-badge&logo=crowdin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Translate%20on%20Crowdin-%2318a303.svg?&style=for-the-badge&logo=crowdin&logoColor=white"/>
 </a>
 <br>
 
 **Source language:** English
 <a href="https://translate.gurge44.eu" target="_blank">
-  <img src="https://badges.crowdin.net/ehr/localized.svg" />
+<img src="https://badges.crowdin.net/ehr/localized.svg" />
 </a>
 <br>
 
 ### Translation progress
+
 [![Crowdin](https://badges.awesome-crowdin.com/translation-15788979-676754.png)](https://crowdin.com/project/ehr)
 <br>
 
@@ -306,7 +308,7 @@ Click this badge to view our translation project:
 ## Chat Commands
 
 | Command                                        | Description                                                                                   | Arguments                                                                                                                                                                                                                                                                                                                    | Usage Level                               | Usage Time                              | 'cmd' prefix<br>required |
-|------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------|--------------------------|
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- | ------------------------ |
 | /lt                                            | View the lobby timer                                                                          | –                                                                                                                                                                                                                                                                                                                            | :purple_circle: Everyone                  | :green_square: In Lobby                 | :x:                      |
 | /dump                                          | Dumps the log file to the desktop                                                             | –                                                                                                                                                                                                                                                                                                                            | :green_circle: Modded Clients             | :purple_square: Always                  | :x:                      |
 | /v<br>/version                                 | View the current version of EHR                                                               | –                                                                                                                                                                                                                                                                                                                            | :green_circle: Modded Clients             | :purple_square: Always                  | :x:                      |
@@ -434,143 +436,105 @@ Click this badge to view our translation project:
 
 ### :star: [Town Of Host Re-Edited](https://github.com/Loonie-Toons/) :
 
->
 > - Our repository is forked from TOHRE (from a long time ago)
 > - Ported PhantomRolePatch.cs (partially broken)
->
 
 ### :star: [Town Of Host Edited / Town Of Next](https://github.com/KARPED1EM/TownOfHostEdited) :
 
->
 > - Our repository is a continuation of Town Of Host Edited
 > - Town Of Next reference: Modify character limit for chat messages
 > - Town Of Next reference: Modify and apply cool animations on Main Menu
->
 
 ### :star: [TOH](https://github.com/tukasa0001/TownOfHost) :
 
->
 > - Our repository is based initially on TOH
->
 
 ### :star: [TOHY](https://github.com/Yumenopai/TownOfHost_Y) :
 
->
 > - Many role ideas
 > - Provided roles: AntiAdminer, CursedWolf, Workaholic, Greedy, Stalker, Ignitor, Rabbit
 > - Reference: Modify game announcement
 > - New settings UI for v2024.6.18
 > - Reference: Role Basis Changing Mid-Game
->
 
 ### :star: [TOH:TOR](https://github.com/music-discussion/TownOfHost-TheOtherRoles) :
 
->
 > - Many role ideas
 > - Reference: Exile Confirm
 > - Reference: Split RPC Pack
->
 
 ### :star: [SNR](https://github.com/ykundesu/SuperNewRoles) :
 
->
 > - Reference: Credentials menu
 > - Reference: Switch Horse Mode
 > - Reference: Search Mod Game
 > - Reference: Custom Button
->
 
 ### :star: [TOP](https://github.com/tugaru1975/TownOfPlus) :
 
->
 > - Reference: Zoom
->
 
 ### :star: [RHR](https://github.com/sansaaaaai/Revolutionary-host-roles) :
 
->
 > - Reference: Modify settings menu
->
 
 ### :star: [TOH+](https://github.com/SkullCreeper/TownOfHostPlus) :
 
->
 > - Provided roles: Marshall, Poisoner, Necroview, Sidekick
->
 
 ### :star: [PL](https://github.com/Lotus-AU/LotusContinued) :
 
->
 > - Ideas for some roles (Alchemist, Chameleon, Escapist, Necromancer, Deathknight, Romantic and its variants, Vengeance)
 > - Reference: Customize Main Menu
 > - Reference: Auto Play Again
 > - Reference: Some TabIcons
->
 
 ### :star: [Stellar Roles](https://github.com/Mr-Fluuff/StellarRolesAU) :
 
->
 > - Many role ideas (this mod is seriously amazing)
 > - Reference: Some custom button images
->
 
 ### :star: [TOHEX/TONEX](https://github.com/TOHEX-Official/TownOfHostEdited-Xi) :
 
->
 > - Provided the role: Swapper
 > - Reference: Store message history
->
 
 ### :star: [More Gamemodes](https://github.com/Rabek009/MoreGamemodes) :
 
->
 > - Reference: Part of the code used for the Endless Host Roles Image in the Main Menu
 > - Reference: Custom Net Objects
 > - Reference: Block vent interaction for players who cannot use vents
 > - Reference: Better Chat Clearing Mechanic
 > - Reference: Setting Chat Visible For Specific Clients During The Game
->
 
 ### :star: [Reactor](https://github.com/NuclearPowered/Reactor) :
 
->
 > - Reference: Disable the 5s timeout on custom servers
->
 
 ### :star: [TOHO](https://github.com/Limeau/TownofHost-Optimized) :
 
->
 > - Reference: Some role ideas (Tank, Deadlined, Journalist, Grappler, Negotiator, Hypnotist, etc.)
->
 
 ### :star: [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) :
 
->
 > - Reference: Custom Region Installer (adding modded regions)
->
 
 ### :star: [AutoRejoin](https://github.com/Maxi0fc/AutoRejoin) :
 
->
 > - Reference: Auto Rejoin
->
 
 ### :star: [Crowded](https://github.com/CrowdedMods/CrowdedMod)
 
->
 > - Crowded is integrated into EHR
-	 
+
 ### :star: [MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI)
 
->
 > - Next button sprites (Inactive and Active)
 > - Double task panel
 
 ### :star: [UnityDoorstop](https://github.com/Pietrodjaowjao/UnityDoorstop)
 
->
 > - Modified doorstop_config.ini and winhttp.dll for packaging
-	
 
 ### Endless Host Roles (EHR), with Endless Possibilities, brought to you by the Endless Network.
 
@@ -608,8 +572,9 @@ Click this badge to view our translation project:
 - Gurge44 (HU)
 
 # Sponsors
+
 | <img src="https://cdn.brandfetch.io/idXCVMKbd8/w/180/h/180/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1777121415987" alt="SignPath Logo" width="44"/> | Free code signing on Windows provided by [SignPath.io](https://signpath.io), certificate by [SignPath Foundation](https://signpath.org) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 
 # License for the Custom Team Assigner application (everything inside the `CTA` folder)
 
